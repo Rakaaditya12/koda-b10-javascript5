@@ -1,8 +1,6 @@
 # Converter suhu dengan built-in method dan tanpa built-in method
 
-## flowchart
-
-### built-in method
+## flowchart built-in method
 
 ```mermaid
     flowchart TD
@@ -30,7 +28,7 @@
     H --> X
 ```
 
-### without built-in method
+## flowchart without built-in method
 
 ```mermaid
     flowchart TD
